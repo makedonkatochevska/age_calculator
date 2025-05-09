@@ -42,7 +42,7 @@ The **Age Calculator** is a simple web application built using JavaScript, desig
 
 You can try out the Age Calculator by visiting the live demo link below:
 
-- [Live Demo - Age Calculator](https://your-demo-link.netlify.app)
+- [Live Demo - Age Calculator](https://age-calculator-makedonkatochevska.netlify.app/)
 
 ---
 
